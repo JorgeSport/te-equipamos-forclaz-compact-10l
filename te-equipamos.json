@@ -6,7 +6,7 @@
       "active": true,
       "type": "sale",
       "sections": ["Ventas", "Novedades"],
-      "activities": ["travel", "trekking", "senderismo"],
+      "activities": ["travel", "Urbano", "senderismo"],
       "product_type": "mochila",
       "title": "45 gramos y 10 litros: la mochila que casi desaparece cuando no la usas",
       "summary": "Forclaz Compact 10 L, una mochila auxiliar plegable y ultraligera para viajes y trekking.",
