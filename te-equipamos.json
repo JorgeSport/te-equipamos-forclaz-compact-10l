@@ -1,13 +1,13 @@
 {
   "brand": "Te Equipamos",
+  "schema_version": 2,
   "items": [
     {
       "active": true,
       "type": "sale",
-      "sections": [
-        "Ventas",
-        "Novedades"
-      ],
+      "sections": ["Ventas", "Novedades"],
+      "activities": ["travel", "trekking", "senderismo"],
+      "product_type": "mochila",
       "title": "45 gramos y 10 litros: la mochila que casi desaparece cuando no la usas",
       "summary": "Forclaz Compact 10 L, una mochila auxiliar plegable y ultraligera para viajes y trekking.",
       "details": "Landing de producto con galería, datos técnicos y módulo de compra o consulta.",
@@ -16,12 +16,7 @@
       "score": 92,
       "featured": false,
       "direct": true,
-      "tags": [
-        "mochilas",
-        "viaje",
-        "trekking",
-        "ultraligero"
-      ],
+      "tags": ["mochilas", "viaje", "trekking", "ultraligero"],
       "url": "https://jorgesport.github.io/te-equipamos-forclaz-compact-10l/"
     }
   ]
