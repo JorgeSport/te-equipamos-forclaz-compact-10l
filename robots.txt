@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorgesport.github.io/te-equipamos-forclaz-compact-10l/sitemap.xml
